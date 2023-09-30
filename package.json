@@ -1,0 +1,19 @@
+{
+  "name": "puling-system-api",
+  "version": "2.5.5",
+  "description": "The is the server side API Vote Pullng System",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm-test-run"
+  },
+  "author": "Oishik Dutta",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cookie-parser": "^1.4.6",
+    "express": "^4.18.2",
+    "git": "^0.1.5",
+    "mongodb": "^6.1.0",
+    "mongoose": "^7.5.3"
+  }
+}
